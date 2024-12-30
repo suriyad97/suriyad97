@@ -9,7 +9,6 @@ Welcome to my GitHub profile! Here's a little about me:
 
 Let's connect and collaborate!
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suriyad97&label=Profile%20views&color=0e75b6&style=flat" alt="suriyad97" /> </p>
 
