@@ -5,11 +5,11 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🔭 Working on SaaS products and exploring AI/ML
 - 🌱 Learning advanced web development and deploying scalable applications
 - 🎯 Goals: Contribute to impactful projects and share knowledge
-- 📸 Photography enthusiast in my free time
+
 
 Let's connect and collaborate!
 
-### Tech Stack 🚀
+### Web Development 🚀
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -43,9 +43,6 @@ Let's connect and collaborate!
   </a>
   <a href="https://www.langchain.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/_static/images/logo.png" alt="LangChain" width="40" height="40"/>
-  </a>
-  <a href="https://langgraph.ai/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/120px-GraphQL_Logo.svg.png" alt="LangGraph" width="40" height="40"/>
   </a>
   <a href="https://huggingface.co/" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
