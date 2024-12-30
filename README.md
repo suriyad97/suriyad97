@@ -32,4 +32,25 @@ Let's connect and collaborate!
   </a>
 </p>
 
+### AI/ML Tools 🤖
+
+<p align="left">
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/_static/images/logo.png" alt="LangChain" width="40" height="40"/>
+  </a>
+  <a href="https://langgraph.ai/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/120px-GraphQL_Logo.svg.png" alt="LangGraph" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
+  </a>
+</p>
+
+
 
