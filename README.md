@@ -11,16 +11,25 @@ Blending over **4 years of experience** in **Machine Learning (ML)**, **Natural 
 
 ## 🛠️ **Tech Toolbox**
 **Languages**:  
-- Python, SQL, JavaScript, 
+- Python, SQL, JavaScript, Ruby  
 
 **Frameworks & Libraries**:  
-- PyTorch, Langchain, Vector Databases, Huggingface, SpaCy  
+- PyTorch, TensorFlow, Langchain, Huggingface Transformers, SpaCy, FastAPI, Scikit-learn  
 
-**Tools**:  
-- AWS, GCP, Docker, Git  
+**AI Agent Frameworks**:  
+- AutoGPT, BabyAGI, Microsoft Guidance, CrewAI, Haystack  
 
-**Specialties**:  
-- Large Language Models (LLMs), Generative AI, NLP, Search  
+**Vector Databases**:  
+- Pinecone, Weaviate, Milvus, FAISS  
+
+**Cloud Platforms**:  
+- AWS (SageMaker, Lambda, EC2), GCP (Vertex AI, BigQuery), Azure AI  
+
+**DevOps & MLOps**:  
+- Docker, Kubernetes, Git, GitHub Actions, MLflow, Weights & Biases  
+
+**Specialized Tools**:  
+- OpenAI API, Anthropic Claude, LlamaIndex, ChromaDB  
 
 ---
 
