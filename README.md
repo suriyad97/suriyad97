@@ -1,11 +1,11 @@
 # Hi there, I'm Surya Divi! 👋 🌐
 
-Blending over **4 years of experience** in **Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **Software Engineering**, I specialize in transforming **data and language** into impactful solutions and experiences. 🚀
+Blending over **4 years of experience** in **Machine Learning (ML)**, **Natural Language Processing (NLP)**, I specialize in transforming **data and language** into impactful solutions and experiences. 🚀
 
 ---
 
 ## 🌟 **Professional Highlights**
-- **AI Engineer** - [Mercedes-Benz Research And Development India]([https://www.mbrdi.co.in/#/]), Bengaluru *(2020 - Present)*  
+- **AI Engineer** - [Mercedes-Benz Research And Development India][https://www.mbrdi.co.in/#/], Bengaluru *(2020 - Present)*  
 
 ---
 
