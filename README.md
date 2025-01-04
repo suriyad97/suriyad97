@@ -5,7 +5,7 @@ Blending over ** years of experience** in **Machine Learning (ML)**, **Natural L
 ---
 
 ## 🌟 **Professional Highlights**
-- **AI Engineer** - [Mercedes-Benz Research And Development India](https://www.menyala.com), Bengaluru *(2020 - Present)*  
+- **AI Engineer** - [Mercedes-Benz Research And Development India]([https://www.mbrdi.co.in/#/]), Bengaluru *(2020 - Present)*  
 
 ---
 
@@ -37,7 +37,7 @@ Blending over ** years of experience** in **Machine Learning (ML)**, **Natural L
 ---
 
 ## 🤝 **Let's Connect!**
-🔗 Let's ideate, innovate, and build cool experiences with **AI**. Reach out for collaborations or simply to chat!  
-🌐 **[Your LinkedIn](https://www.linkedin.com/in/your-profile)** | 📧 **[Your Email](mailto:divisaisurya@gmail.com)**  
+🔗 Let's ideate, innovate, and build cool experiences with **AI**. Reach out for collaborations or to chat!  
+🌐 **[LinkedIn]([https://www.linkedin.com/in/suryadivi/])** | 📧 **[Email](mailto:divisaisurya@gmail.com)**  
 
 
