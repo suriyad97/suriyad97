@@ -5,7 +5,7 @@ Blending over **4 years of experience** in **Machine Learning (ML)**, **Natural 
 ---
 
 ## 🌟 **Professional Highlights**
-- **AI Engineer** - [Mercedes-Benz Research And Development India][https://www.mbrdi.co.in/#/], Bengaluru *(2020 - Present)*  
+- **AI Engineer** - [Mercedes-Benz Research And Development India](https://www.mbrdi.co.in/#/), Bengaluru *(2020 - Present)*  
 
 ---
 
