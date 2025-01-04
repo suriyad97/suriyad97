@@ -1,6 +1,6 @@
 # Hi there, I'm Surya Divi! 👋 🌐
 
-Blending over ** years of experience** in **Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **Software Engineering**, I specialize in transforming **data and language** into impactful solutions and experiences. 🚀
+Blending over **4 years of experience** in **Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **Software Engineering**, I specialize in transforming **data and language** into impactful solutions and experiences. 🚀
 
 ---
 
