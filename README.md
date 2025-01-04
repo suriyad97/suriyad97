@@ -11,7 +11,7 @@ Blending over **4 years of experience** in **Machine Learning (ML)**, **Natural 
 
 ## 🛠️ **Tech Toolbox**
 **Languages**:  
-- Python, SQL, JavaScript, Ruby  
+- Python, SQL, JavaScript, HTML, CSS
 
 **Frameworks & Libraries**:  
 - PyTorch, TensorFlow, Langchain, Huggingface Transformers, SpaCy, FastAPI, Scikit-learn  
@@ -20,7 +20,7 @@ Blending over **4 years of experience** in **Machine Learning (ML)**, **Natural 
 - AutoGPT, BabyAGI, Microsoft Guidance, CrewAI, Haystack  
 
 **Vector Databases**:  
-- Pinecone, Weaviate, Milvus, FAISS  
+- Pinecone, Weaviate, Milvus, FAISS, ChromaDB 
 
 **Cloud Platforms**:  
 - AWS (SageMaker, Lambda, EC2), GCP (Vertex AI, BigQuery), Azure AI  
@@ -29,7 +29,7 @@ Blending over **4 years of experience** in **Machine Learning (ML)**, **Natural 
 - Docker, Kubernetes, Git, GitHub Actions, MLflow, Weights & Biases  
 
 **Specialized Tools**:  
-- OpenAI API, Anthropic Claude, LlamaIndex, ChromaDB  
+- OpenAI API, Anthropic Claude, LlamaIndex
 
 ---
 
