@@ -1,20 +1,17 @@
-# Hi there, I'm [Your Name]! 👋 🌐
+# Hi there, I'm Surya Divi! 👋 🌐
 
-Blending over **7 years of experience** in **Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **Software Engineering**, I specialize in transforming **data and language** into impactful solutions and experiences. 🚀
+Blending over ** years of experience** in **Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **Software Engineering**, I specialize in transforming **data and language** into impactful solutions and experiences. 🚀
 
 ---
 
 ## 🌟 **Professional Highlights**
-- **AI Engineer** - [Menyala](https://www.menyala.com), Singapore *(2024 - Present)*  
-- **Lead AI Engineer** - [OneByZero](https://www.onebyzero.com), Singapore *(2023 - 2024)*  
-- **Senior AI Engineer** - [Splore](https://www.splore.com), Singapore *(2023)*  
-- **ML Engineer - NLP** - [Unscrambl](https://www.unscrambl.com), India *(2017 - 2022)*  
+- **AI Engineer** - [Mercedes-Benz Research And Development India](https://www.menyala.com), Bengaluru *(2020 - Present)*  
 
 ---
 
 ## 🛠️ **Tech Toolbox**
 **Languages**:  
-- Python, SQL, JavaScript, Ruby  
+- Python, SQL, JavaScript, 
 
 **Frameworks & Libraries**:  
 - PyTorch, Langchain, Vector Databases, Huggingface, SpaCy  
@@ -28,8 +25,8 @@ Blending over **7 years of experience** in **Machine Learning (ML)**, **Natural 
 ---
 
 ## 🎓 **Education**
-- **Master's in IT** - *The University of Melbourne*  
-- **Bachelor's in Computer Applications** - *Bhartiya Vidyapeeth University*  
+- **Master's in Data Science** - *Scaler Neovarsity*  
+- **Bachelor's in Automobile Engineering** - *Lovely Professional University*  
 
 ---
 
@@ -41,7 +38,6 @@ Blending over **7 years of experience** in **Machine Learning (ML)**, **Natural 
 
 ## 🤝 **Let's Connect!**
 🔗 Let's ideate, innovate, and build cool experiences with **AI**. Reach out for collaborations or simply to chat!  
-🌐 **[Your LinkedIn](https://www.linkedin.com/in/your-profile)** | 📧 **[Your Email](mailto:your.email@example.com)**  
+🌐 **[Your LinkedIn](https://www.linkedin.com/in/your-profile)** | 📧 **[Your Email](mailto:divisaisurya@gmail.com)**  
 
----
-⭐️ *Feel free to explore my repositories and leave a ⭐️ if you find something interesting!*  
+
