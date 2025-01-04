@@ -38,6 +38,6 @@ Blending over **4 years of experience** in **Machine Learning (ML)**, **Natural 
 
 ## 🤝 **Let's Connect!**
 🔗 Let's ideate, innovate, and build cool experiences with **AI**. Reach out for collaborations or to chat!  
-🌐 **[LinkedIn]([https://www.linkedin.com/in/suryadivi/])** | 📧 **[Email](mailto:divisaisurya@gmail.com)**  
+🌐 **[LinkedIn](https://www.linkedin.cm/in/suryadivi/)** | 📧 **[Email](mailto:divisaisurya@gmail.com)**  
 
 
