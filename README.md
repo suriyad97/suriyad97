@@ -1,4 +1,4 @@
-# Hola, I'm Surya Divi! 👋 🌐
+# Hola, I'm Surya Divi! 👋
 
 Blending over **4 years of experience** in **Machine Learning (ML)**, **Natural Language Processing (NLP)**, I specialize in transforming **data and language** into impactful solutions and experiences. 🚀
 
