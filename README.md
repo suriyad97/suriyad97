@@ -25,7 +25,7 @@ Blending over **4 years of experience** in **Machine Learning (ML)**, **Natural 
 ---
 
 ## 🎓 **Education**
-- **Master's in Data Science** - *Scaler Neovarsity*  
+- **Master's in Data Science and Machine Learning** - *Scaler Neovarsity*  
 - **Bachelor's in Automobile Engineering** - *Lovely Professional University*  
 
 ---
