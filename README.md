@@ -40,8 +40,7 @@ Experience in **Machine Learning (ML)**, **Natural Language Processing (NLP)**, 
 ---
 
 ## 📜 **Certifications**
-- **Coursera**: Deep Learning, Machine Learning, Mathematics for ML Specializations  
-- **Udacity**: NLP, ML, React Nanodegrees  
+- **Coursera**: Deep Learning, Machine Learning, Mathematics for ML Specializations
 
 ---
 
